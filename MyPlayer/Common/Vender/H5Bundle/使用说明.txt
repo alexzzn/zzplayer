@@ -1,0 +1,11 @@
+服务器地址： 103.91.217.233:22
+访问数据库:
+mysql -u root -p
+密码：root
+mysq> use web;
+mysql> select * from room where status=1;
+
+随意复制一条流媒体地址，例：https://streamer.camdolls.com/24/hls/stream_4793039_360/index.m3u8?CAMDOLLS=
+替换demo.html中的播放地址，即可正常播放
+
+播放库js使用手册详见：http://www.bootcdn.cn/hls.js/readme/

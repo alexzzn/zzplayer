@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "---"; ObjectID = "08b-7F-dgu"; */
+"08b-7F-dgu.text" = "---";
+
+/* Class = "UILabel"; text = "0人收藏"; ObjectID = "0bV-or-eNt"; */
+"0bV-or-eNt.text" = "0人收藏";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "0n6-Gy-zTi"; */
+"0n6-Gy-zTi.placeholder" = "请输入手机号";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "11U-2b-aqE"; */
+"11U-2b-aqE.title" = "我的";
+
+/* Class = "UILabel"; text = "VIP到期时间"; ObjectID = "2Jt-by-d2k"; */
+"2Jt-by-d2k.text" = "VIP到期时间";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "327-6p-C7G"; */
+"327-6p-C7G.text" = "--";
+
+/* Class = "UILabel"; text = "主播"; ObjectID = "BZC-jD-qmq"; */
+"BZC-jD-qmq.text" = "主播";
+
+/* Class = "UILabel"; text = "在线"; ObjectID = "Dba-fJ-bRp"; */
+"Dba-fJ-bRp.text" = "在线";
+
+/* Class = "UILabel"; text = "续费会员"; ObjectID = "EUc-OS-S4n"; */
+"EUc-OS-S4n.text" = "续费会员";
+
+/* Class = "UIViewController"; title = "我的"; ObjectID = "HLo-5o-uPz"; */
+"HLo-5o-uPz.title" = "我的";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "HXX-E3-pG6"; */
+"HXX-E3-pG6.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "HaL-3T-Zqw"; */
+"HaL-3T-Zqw.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "0人收藏"; ObjectID = "LiN-cS-Pcu"; */
+"LiN-cS-Pcu.text" = "0人收藏";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "LjX-YL-eKk"; */
+"LjX-YL-eKk.text" = "修改密码";
+
+/* Class = "UINavigationItem"; title = "续费会员"; ObjectID = "Slf-Id-bYi"; */
+"Slf-Id-bYi.title" = "续费会员";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "Vd5-mh-T1P"; */
+"Vd5-mh-T1P.normalTitle" = "发送验证码";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "Xr8-wl-l6V"; */
+"Xr8-wl-l6V.text" = "我的收藏";
+
+/* Class = "UINavigationItem"; title = "我的收藏"; ObjectID = "bdZ-QH-zXO"; */
+"bdZ-QH-zXO.title" = "我的收藏";
+
+/* Class = "UIViewController"; title = "我的收藏"; ObjectID = "dfq-7G-TzV"; */
+"dfq-7G-TzV.title" = "我的收藏";
+
+/* Class = "UIViewController"; title = "首页"; ObjectID = "g1T-g6-rn7"; */
+"g1T-g6-rn7.title" = "首页";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "gjT-Q2-os8"; */
+"gjT-Q2-os8.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "激活"; ObjectID = "hkT-C4-GUu"; */
+"hkT-C4-GUu.normalTitle" = "激活";
+
+/* Class = "UITextField"; placeholder = "请输入激活码"; ObjectID = "kFG-7a-po0"; */
+"kFG-7a-po0.placeholder" = "请输入激活码";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "mKa-lZ-Z90"; */
+"mKa-lZ-Z90.normalTitle" = "确定";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "mlC-X5-ptZ"; */
+"mlC-X5-ptZ.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "在线"; ObjectID = "olA-l3-P8u"; */
+"olA-l3-P8u.text" = "在线";
+
+/* Class = "UINavigationItem"; title = "修改密码"; ObjectID = "p0U-Mt-PhH"; */
+"p0U-Mt-PhH.title" = "修改密码";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "p2L-Yj-QDk"; */
+"p2L-Yj-QDk.placeholder" = "请输入验证码";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "pxq-2H-HLE"; */
+"pxq-2H-HLE.title" = "Item";
+
+/* Class = "UILabel"; text = "主播"; ObjectID = "pzn-c2-nw8"; */
+"pzn-c2-nw8.text" = "主播";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "qGh-dI-o0h"; */
+"qGh-dI-o0h.title" = "Item";
+
+/* Class = "UISegmentedControl"; rJZ-dI-sfK.segmentTitles[0] = "国内"; ObjectID = "rJZ-dI-sfK"; */
+"rJZ-dI-sfK.segmentTitles[0]" = "国内";
+
+/* Class = "UISegmentedControl"; rJZ-dI-sfK.segmentTitles[1] = "国外"; ObjectID = "rJZ-dI-sfK"; */
+"rJZ-dI-sfK.segmentTitles[1]" = "国外";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "xcb-cB-b5M"; */
+"xcb-cB-b5M.title" = "我的";
+
+/* Class = "UILabel"; text = "你还没有收藏～"; ObjectID = "yrq-EN-Hzb"; */
+"yrq-EN-Hzb.text" = "你还没有收藏～";
